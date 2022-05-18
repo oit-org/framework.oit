@@ -8,6 +8,32 @@
     <artifactId>framework.oit</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>officeIT framework</name>
+    <description>Library for our team to be more productive</description>
+    <url>https://github.com/oit-org/framework.oit</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Ahmed Alaaeldin</name>
+            <email>ahmedelkolfat@outlook.com</email>
+            <organization>oit-org</organization>
+            <organizationUrl>https://github.com/oit-org/</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/oit-org/framework.oit.git</connection>
+        <developerConnection>scm:git:ssh://github.com:oit-org/framework.oit.git</developerConnection>
+        <url>https://github.com/oit-org/framework.oit</url>
+    </scm>
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
